@@ -1,5 +1,5 @@
 import random 
-from building_blocks import Value
+from src.building_blocks import Value
 
 class Neuron:
     def __init__(self, nin):
